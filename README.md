@@ -1,14 +1,12 @@
-<h1 align="center">Hi 👋, I'm Saikat Biswas</h1>
-<br clear="both">
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnU2d2kzN2xlb3VqM283N2Z0bDgybzg3NnhjY3kxY3U4dnpubzhqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XbPW7ZsiGCiyznhnIm/giphy.gif" style="border: 3px solid #00FF00; border-radius: 10px;" />
+<h1 align="center">Hi 👋, I'm Saikat Biswas </h1>
 <h3 align="center">A passionate Full stack web developer from India.</h3>
 
-##
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aeon-interm&label=Profile%20views&color=0e75b6&style=flat" alt="aeon-interm" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aeon-interm" alt="aeon-interm" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ae_on01" target="blank"><img src="https://img.shields.io/twitter/follow/ae_on01?logo=twitter&style=for-the-badge" alt="ae_on01" /></a> </p>
+<br clear="both">
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJxZHVjY294MXdteGQ3Y3Z4OTI5ZzRqZWpmcjV3OHJ6ZWxyN3RyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 - 🔭 I have made this [Cyber-Goals](https://cyber-goals-0001.onrender.com)
 
