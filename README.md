@@ -25,7 +25,6 @@
 <a href="https://linkedin.com/in/saikat-biswas-0a5433253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saikat-biswas-0a5433253" height="30" width="40" /></a>
 <a href="https://instagram.com/aeon.____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aeon.____" height="30" width="40" /></a>
 <a href="https://discord.gg/aeongaming2080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aeongaming2080" height="30" width="40" /></a>
-    ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
