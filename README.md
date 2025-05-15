@@ -20,7 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ae_on01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ae_on01" height="30" width="40" /></a>
+<a href="https://twitter.com/ae_on01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ae_on01" height="30" width="40" /></a> 
+<a href="https://wa.me/qr/6A2TGKXICYKLE1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="ae_on01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saikat-biswas-0a5433253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saikat-biswas-0a5433253" height="30" width="40" /></a>
 <a href="https://instagram.com/aeon.____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aeon.____" height="30" width="40" /></a>
 <a href="https://discord.gg/aeongaming2080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aeongaming2080" height="30" width="40" /></a>
